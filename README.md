@@ -5,7 +5,7 @@
 
 
 ### developer
-<a href="https://devpost.com/ak3682"><img src="https://avatars1.githubusercontent.com/u/61092638?s=400&u=8dc2e7fa5f59df86b9e0c351181d7110eaaaa03c&v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://devpost.com/ak3682"><img src="https://avatars1.githubusercontent.com/u/61092638?s=400&u=8dc2e7fa5f59df86b9e0c351181d7110eaaaa03c&v=4" height="90px" width="80px" alt="click here"/></a>
 
 ### drive link:-
 <a href="https://drive.google.com/drive/folders/112tgrn2pHXajLaKzsZeEtG2Qg0GDh56T?usp=sharing"><img src="https://github.com/a4abhishekkmr/Vehicle-Detection-system/blob/master/img/drive.png" height="50px" width="50px" alt=""/>click here</a>
