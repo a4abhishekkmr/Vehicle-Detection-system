@@ -14,6 +14,6 @@
 
 ### What steps you have to follow??
 - Download my repository 
-- And run `Car_detection.py`
+- And run `main.ipynb`
 
 To come out of output just press esc key.
